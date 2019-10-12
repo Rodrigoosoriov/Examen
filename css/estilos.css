@@ -1,0 +1,115 @@
+.Menu h1{
+float: left;
+padding-top: 20px;
+padding: 0 20px;
+color: white;
+}
+
+.container2{
+  background: url('/Imagenes/menu.jpg');
+  width: 80%;
+  height: 100px;
+  margin: auto;
+}
+
+.Menu a {
+ color: #fff;
+}
+
+.Menu ul {
+ list-style: none;
+ float: right;
+}
+.Menu ul li{
+ float: left;
+}
+ .Menu ul li a {
+  display: block;
+  padding: 20px;
+  text-align: center;
+
+ }
+
+ .Menu ul li a:hover,
+ .Menu ul li a.current {
+  border-color: #3d8e33;
+  background: #FFF;
+  color: #5BBF21;
+ }
+
+html{
+  background: #F3C450;
+}
+
+.Menu{
+  background: url('/Imagenes/portada.jpg');
+}
+/*INICIO*/
+
+.portada{
+  height: 500px;
+  width: 2000px;
+  background: url(/Imagenes/portada1.jpg);
+  margin: auto;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.portada P{
+  color: white;
+  font-size: 40px;
+}
+
+/*INFORMACION*/
+
+.informacion{
+  height: 250px;
+  width: 1000px;
+  background: url(/Imagenes/img1.jpg);
+  margin: auto;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.informacion2{
+  height: auto;
+  width: 1000px;
+  background: white;
+  margin: auto;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.informacion P{
+  color: white;
+  font-size: 40px;
+}
+
+#img1{
+  height: auto;
+  width: 200px;
+}
+
+/*GALERIA*/
+.vasos{
+  height: auto;
+  width: 500px;
+  background: white;
+  margin: auto;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+#img2{
+  width: 200px;
+}
+
+.desc{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+float: right;
+}
+
+
+iframe{
+  margin: auto;
+}
